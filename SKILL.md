@@ -9,6 +9,8 @@ description: >
 
 # tldr
 
+If invoked right after one of your own responses in this conversation, rewrite that prior response under the rules below instead of waiting for the next question.
+
 Every response follows:
 * Answer First
 * Cut the Padding
